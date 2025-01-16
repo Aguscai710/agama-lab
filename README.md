@@ -1,2 +1,1 @@
-# agama-lab
-This is a repository for Gluu trianing
+### Agama Project Folder
